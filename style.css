@@ -5,6 +5,10 @@
 }
 header{
     display: flex;
-    background-color: #ffffff;
+    background-color: #41b2de;
     height: 80px;
+}
+.myntra_logo{
+    height: 36px;
+    width: 53px;
 }
