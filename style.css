@@ -7,8 +7,12 @@ header{
     display: flex;
     background-color: #41b2de;
     height: 80px;
+    justify-content: space-between;
 }
 .myntra_logo{
     height: 45px;
     
+}
+.logo_container{
+    margin-left: 4%;
 }
