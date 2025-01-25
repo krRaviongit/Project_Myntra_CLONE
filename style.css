@@ -4,6 +4,9 @@
     font-family: Assistant, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
     box-sizing: border-box; /* to include padding and border in the width */
 }
+
+/* Header Section */
+
 header{
     display: flex;
     background-color: #ffffff;
@@ -80,4 +83,14 @@ header{
     display: flex;
     flex-direction: column;
     align-items: center;
+}
+
+
+/* Main Section */
+
+.banner_container{
+    margin: 40px 0;
+}
+.banner_image{
+    width:100%;
 }
