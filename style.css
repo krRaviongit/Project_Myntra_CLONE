@@ -35,3 +35,7 @@ header{
     text-decoration: none;
 
 }
+.nav_bar a sup{
+    color: #ff3f6c;
+    font-size: 10px;
+}
