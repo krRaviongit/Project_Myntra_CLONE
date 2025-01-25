@@ -5,7 +5,7 @@
 }
 header{
     display: flex;
-    background-color: #41b2de;
+    background-color: #e9c577;
     height: 80px;
     justify-content: space-between;
     align-items: center;  /* aligns vertically */
@@ -19,4 +19,19 @@ header{
 }
 .action_bar{
     margin-right: 4%;
+}
+.nav_bar{
+    display: flex;
+    min-width: 500px; /* to prevent the nav bar from shrinking */
+    justify-content: space-between;
+    
+}
+.nav_bar a{
+    font-size: 14px;
+    letter-spacing: .3px;
+    color: #282c3f;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-decoration: none;
+
 }
