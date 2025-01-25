@@ -8,6 +8,7 @@ header{
     background-color: #41b2de;
     height: 80px;
     justify-content: space-between;
+    align-items: center;  /* aligns vertically */
 }
 .myntra_logo{
     height: 45px;
@@ -15,4 +16,7 @@ header{
 }
 .logo_container{
     margin-left: 4%;
+}
+.action_bar{
+    margin-right: 4%;
 }
